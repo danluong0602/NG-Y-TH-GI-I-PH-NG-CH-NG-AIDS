@@ -31,9 +31,7 @@ World AIDS Day - Tìm hiểu về HIV/AIDS
 
 
 # World AIDS Day
-
-
-## December 1
+# December 1
 
 
 
